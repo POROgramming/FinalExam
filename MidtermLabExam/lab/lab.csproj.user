@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="BackUpRestoreForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DeliveryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InventoryForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LogInForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainteForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PointOfSalesForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SalesMonitorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
